@@ -77,7 +77,7 @@
 					"numoutlets" : 0,
 					"patching_rect" : [ 1414.5, 917.25, 315.0, 114.0 ],
 					"style" : "",
-					"text" : "jit.plur is an odd duck (plur stands for peace love unity rave). It basically does a bunch of really random visual effects that can be hard to discern why it works that way. Like an advanced version of jit.ameba.\n\nCool effects are possible with this object and you'll notice a shift most often in trying different modes. This one just takes some exploration.\n"
+					"text" : "jit.plur is an odd duck (plur stands for peace love unity respect). It basically does a bunch of really random visual effects that can be hard to discern why it works that way. Like an advanced version of jit.ameba.\n\nCool effects are possible with this object and you'll notice a shift most often in trying different modes. This one just takes some exploration.\n"
 				}
 
 			}
