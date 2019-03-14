@@ -1,0 +1,30 @@
+Week 6
+
+12:10 - 12:25 : Check in about last week / Any thoughts or comments
+12:25 - 1:15 : Object Theater Presentation
+1:15 - 1:30 : Calendar / Questions
+1:30 - 1:40 : Break
+1:40 - 2:00 : Meet with groups / Come around to clarify
+2:00 - 2:40 : Cameras + MaxMSPJitter
+
+
+Cameras
+
+jit.grab
+- Go Pro
+	- Micro HDMI
+- DSLR
+	- Mini HDMI
+- Endoscopic / 
+	- USB
+
+RTSP
+- Wifi/Security Cameras
+
+Capture Card
+- Analog Cameras / Canopus
+
+Syphon
+- Syphoner
+- Any Screen
+- iPhone / Airbeam
